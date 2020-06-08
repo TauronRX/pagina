@@ -1,0 +1,54 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: url(../img/teclado.jpg) no-repeat center top;
+    background-size: cover;
+    color: #ffff;
+    font-family: sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #ffff;
+}
+
+
+a:hover {
+    opacity: .30;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+    color: #ffff;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.cabecera {
+    font-size: 30px;
+}
+
+#imagen-html {
+    float: right;
+    margin-right: 80px;
+}
+
+.articulo {
+    /*position: absolute;*/
+    margin-left: 35px;
+}
+
+#pregunta-inicio {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.parrafo {
+    margin-left: 60px;
+    margin-top: 40px;
+}
